@@ -1,3 +1,5 @@
+# The 'Challenge the Map' project
+
 A plan called "Internet for All," from the the Biden-Harris Administration, presents a plan to fund and implement the deployment of High-Speed Internet nationwide. On November 18th, the FCC reveals a "Broadband Internet map" displaying the broadband coverage of the US.
 Between November 18th & January 13th, they're welcoming challenges to their map to ensure everyone gets included.
 
