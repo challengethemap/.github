@@ -8,7 +8,9 @@ The goals of "Challenge the Map" are to:
 - If all goes well, we'll submit a "bulk challenge" to the Federal government to ensure their communities are included in the High-speed Internet rollout.
 
 
-Main Website: https://www.fcc.gov/BroadbandData
-Specification for data files used for bulk challenges: https://us-fcc.app.box.com/v/bdc-bulk-fixed-challenge-spec
+### Required Reading
+
+- Main Website: https://www.fcc.gov/BroadbandData
+- Specification for data files used for bulk challenges: https://us-fcc.app.box.com/v/bdc-bulk-fixed-challenge-spec
 
 Opportunities like this one are the reasons why @civichacker is here.
