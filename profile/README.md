@@ -12,8 +12,8 @@ The goals of "Challenge the Map" are to:
 - Main Website: https://www.fcc.gov/BroadbandData
 - Specification for data files used for bulk challenges: https://us-fcc.app.box.com/v/bdc-bulk-fixed-challenge-spec
 
-Opportunities like this one are the reasons why [https://github.com/civichacker](@civichacker) is here.
+Opportunities like this one are the reasons why [@civichacker](https://github.com/civichacker) is here.
 
 
 ### Goals of this organization
-This organization is where the [https://github.com/civichacker](@civichacker) team will dump artifacts it uncovers.
+This organization is where the [@civichacker](https://github.com/civichacker) team will dump artifacts it uncovers.
