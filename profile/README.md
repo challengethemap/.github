@@ -2,7 +2,7 @@ A plan called "Internet for All," from the the Biden-Harris Administration, pres
 On November 18th, the FCC reveals a "Broadband Internet map" displaying the broadband coverage of the US.
 Between November 18th & January 13th, they're welcoming challenges to their map to ensure everyone gets included.
 
-This project, "Challenge the Map" (https://github.com/civichacker/challengethemap), is where we will:
+The goals of "Challenge the Map" are to:
 - Display the current broadband map from the FCC
 - provide people with a way to submit challenges to the FCC map if they find they're being excluded.
 - If all goes well, we'll submit a "bulk challenge" to the Federal government to ensure their communities are included in the High-speed Internet rollout.
