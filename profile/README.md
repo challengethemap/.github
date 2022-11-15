@@ -1,5 +1,4 @@
-A plan called "Internet for All," from the the Biden-Harris Administration, presents a plan to fund and implement the deployment of High-Speed Internet nationwide.
-On November 18th, the FCC reveals a "Broadband Internet map" displaying the broadband coverage of the US.
+A plan called "Internet for All," from the the Biden-Harris Administration, presents a plan to fund and implement the deployment of High-Speed Internet nationwide. On November 18th, the FCC reveals a "Broadband Internet map" displaying the broadband coverage of the US.
 Between November 18th & January 13th, they're welcoming challenges to their map to ensure everyone gets included.
 
 The goals of "Challenge the Map" are to:
@@ -13,4 +12,8 @@ The goals of "Challenge the Map" are to:
 - Main Website: https://www.fcc.gov/BroadbandData
 - Specification for data files used for bulk challenges: https://us-fcc.app.box.com/v/bdc-bulk-fixed-challenge-spec
 
-Opportunities like this one are the reasons why @civichacker is here.
+Opportunities like this one are the reasons why [https://github.com/civichacker](@civichacker) is here.
+
+
+### Goals of this organization
+This organization is where the [https://github.com/civichacker](@civichacker) team will dump artifacts it uncovers.
