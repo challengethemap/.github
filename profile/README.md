@@ -1,12 +1,13 @@
 # The 'Challenge the Map' project
 
-A plan called "Internet for All," from the the Biden-Harris Administration, presents a plan to fund and implement the deployment of High-Speed Internet nationwide. On November 18th, the FCC reveals a "Broadband Internet map" displaying the broadband coverage of the US.
-Between November 18th & January 13th, they're welcoming challenges to their map to ensure everyone gets included for the next round.
+A plan called "Internet for All," from the the Biden-Harris Administration, presents a plan to fund and implement the deployment of High-Speed Internet nationwide. On November 18th, the FCC reveals a "Broadband Internet map" displaying the broadband coverage of the United States.
+THe FCC welcomes challenges to their map using the metholodigies they 
 
 The goals of "Challenge the Map" are to:
-- Display the current broadband map from the FCC
-- provide people with a way to submit challenges to the FCC map if they find they're being excluded.
-- If all goes well, we'll submit a "bulk challenge" to the Federal government to ensure their communities are included in the High-speed Internet rollout.
+- Promote awareness of the National Broadband Map and any avenues to obtain affordable Internet service.
+- Create software that help public and private entities (e.g., Fabric licensees) submit challenges to the FCC.
+- Encourage individuals to submit challenges using the FCC's Speed Test mobile app.
+- Submit one or more bulk challenges to the Federal Communications Commission.
 
 
 ### Required Reading
